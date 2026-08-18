@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1407-top-travellers) |
 | [1683-invalid-tweets](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1683-invalid-tweets) |
