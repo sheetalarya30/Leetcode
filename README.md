@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
