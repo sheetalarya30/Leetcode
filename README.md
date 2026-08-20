@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
 | ------- |
@@ -160,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
