@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quicksort
 |  |
@@ -178,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
