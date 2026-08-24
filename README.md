@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0724-find-pivot-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
