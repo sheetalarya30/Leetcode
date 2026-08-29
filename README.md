@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1078-occurrences-after-bigram](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1078-occurrences-after-bigram) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quicksort
 |  |
