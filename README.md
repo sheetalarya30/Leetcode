@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0414-third-maximum-number) |
+| [0456-132-pattern](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0456-132-pattern) |
 ## Database
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0456-132-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -218,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
