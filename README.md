@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1446-consecutive-characters](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1446-consecutive-characters) |
