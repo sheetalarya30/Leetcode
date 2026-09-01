@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0242-valid-anagram) |
