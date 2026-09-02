@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
