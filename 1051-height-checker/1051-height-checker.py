@@ -9,3 +9,4 @@ class Solution:
             if expected[i] != heights[i]:
                 count += 1
         return count
+        
