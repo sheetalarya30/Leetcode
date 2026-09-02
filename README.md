@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
