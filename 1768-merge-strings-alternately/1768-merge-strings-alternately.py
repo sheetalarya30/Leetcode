@@ -1,16 +1,17 @@
-class Solution:
-    def mergeAlternately(self, word1: str, word2: str) -> str:
+class Solution(object):
+    def mergeAlternately(self, word1, word2):
+        m = len(word1)
+        n = len(word2)
+        i = 0
+        j = 0
         result = []
-        i, j = 0, 0
-        
-        while i < len(word1) and j < len(word2):
-            result.append(word1[i])
-            result.append(word2[j])
-            i += 1
-            j += 1
-        
-        # Append remaining characters if one string is longer
-        result.append(word1[i:])
-        result.append(word2[j:])
-        
+
+        while i < m or j < n:
+            if i < m:
+                result += word1[i]
+                i += 1
+            if j < n:
+                result += word2[j]
+                j += 1
+
         return "".join(result)
