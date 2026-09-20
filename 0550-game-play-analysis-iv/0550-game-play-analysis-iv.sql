@@ -24,3 +24,11 @@ FROM (
 LEFT JOIN Activity a 
   ON f.player_id = a.player_id 
  AND DATEDIFF(a.event_date, f.first_date) = 1;
+
+
+
+
+
+
+
+ 
