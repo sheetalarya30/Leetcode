@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Simulation
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Manacher
