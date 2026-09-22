@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryasheetal9934-cell/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Manacher
 |  |
 | ------- |
