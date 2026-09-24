@@ -4,5 +4,5 @@ class Solution:
         maxs=wsum
         for i in range(k,len(a)):
             wsum=wsum+a[i]-a[i-k]
-            maxs=max(wsum,maxs)
+            maxs=max(maxs,wsum)
         return maxs/k
