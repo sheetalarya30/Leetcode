@@ -1,11 +1,8 @@
-class Solution(object):
-
-    def findMaxAverage(self, a, k):
+class Solution:
+    def findMaxAverage(self, a: list[int], k: int) -> float:
         wsum=sum(a[0:k])
-        maxS=wsum
+        maxs=wsum
         for i in range(k,len(a)):
-            wsum=wsum+a[i]
-            wsum=wsum-a[i-k]
-            maxS=max(wsum,maxS)
-        return maxS/k
-        
+            wsum=wsum+a[i]-a[i-k]
+            maxs=max(wsum,maxs)
+        return maxs/k
